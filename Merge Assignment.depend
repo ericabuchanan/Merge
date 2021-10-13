@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1619208483 source:c:\users\erica\documents\buchanan\merge assignment\mergeassignment.cpp
+	<iostream>
+	<fstream>
+
+1619229351 source:c:\users\erica\documents\github\merge-erica-buchanan\mergeassignment.cpp
+	<iostream>
+	<fstream>
+
